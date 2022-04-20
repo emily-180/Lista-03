@@ -10,13 +10,6 @@ programa
 			cont++
 		}
 		escreva("Resultado da soma: ", soma)
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 }
