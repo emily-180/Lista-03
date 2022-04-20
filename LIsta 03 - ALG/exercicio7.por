@@ -6,8 +6,8 @@ programa
 		real alturaChico = 150.0, alturaJuca = 110.0, C = 2.0, J = 4.0
 		inteiro ano = 0
 		enquanto (alturaJuca <= alturaChico){
-			alturaChico = alturaChico + C
-			alturaJuca = alturaJuca + J
+			alturaChico += C
+			alturaJuca += J
 			ano++
 			escreva("-> Altura de Chico: ", alturaChico)
 			escreva("  -> Altura de Juca: ", alturaJuca , "\n")
