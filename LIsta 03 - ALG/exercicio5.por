@@ -20,14 +20,7 @@ programa
 		
 		mediaI = resulI / quantI
 		mediaP = resulP / quantP
-		
-		
-		
 		escreva("A média dos números ímpares: ",mediaI)
-		escreva("A média dos números pares: ", mediaP)
-		
-		
-		
-		
+		escreva("A média dos números pares: ", mediaP)	
 	}
 }
