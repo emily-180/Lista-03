@@ -11,14 +11,6 @@ programa
 			raiz = mat.raiz(num1 , 2)
 			escreva("A raiz de ", num1, " : ", raiz, "\n")
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 	}
 }
